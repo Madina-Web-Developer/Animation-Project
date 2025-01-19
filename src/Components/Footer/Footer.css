@@ -1,0 +1,36 @@
+
+.MainFooter{
+    @apply bg-[#EEDCC9] py-[3%]
+}
+
+
+
+.Footer_Top{
+    @apply flex items-center justify-between
+}
+.Footer_Top h2{
+    @apply font-Prata lg:text-[32px] font-normal text-[14px]   text-[#452112]
+}
+.F_T_IC{
+    @apply flex  items-center gap-3 lg:text-[20px]
+}
+
+
+.F_U_L{
+    @apply w-full my-[2%]
+}
+
+
+
+
+.F_T_BT{
+    @apply flex items-center justify-between
+}
+.F_BT_LG{
+    @apply h-[17px] md:h-[32px] lg:h-[45px]
+
+}
+.F_BT_Items{
+    @apply flex items-center gap-3 text-[#452112] font-DMSans text-[12px] lg:text-[18px]
+}
+

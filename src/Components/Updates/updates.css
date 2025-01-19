@@ -1,0 +1,30 @@
+
+
+.UD_Contents{
+    @apply pt-[15%] pl-[2%]
+}
+
+
+.Main_UD_Part{
+    background-image: url(../../assets/imgs//slider_Img1.png);
+     @apply h-[240px] lg:h-[600px] bg-no-repeat bg-cover
+}
+
+
+.Update_H2{
+    @apply text-[18px] xl:text-[43px] 2xl:text-[48px] font-normal font-Prata lg:w-[480px] text-[#fff]  
+}
+.Update_P{
+    @apply font-DMSans text-[12px] lg:text-[18px] text-[#F1E6DA] py-[2%]
+}
+
+
+
+.UD_IP{
+    @apply  outline-none lg:h-[50px] lg:w-[496px] h-[40px] w-[270px] px-[2%] bg-[#F1E6DA] rounded-l-[10px] font-DMSans 
+}
+.UD_BTN{
+@apply h-[40px] lg:h-[50px] bg-gradient-to-r from-[#64DBF5] to-[#ADE3EF] w-[104px] rounded-r-[10px] font-DMSans text-[#003363] 
+}
+
+

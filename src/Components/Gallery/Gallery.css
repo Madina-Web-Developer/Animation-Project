@@ -1,0 +1,13 @@
+
+.Main_Gal{
+    @apply bg-[#F1E6DA] py-10
+}
+.Gal_Items{
+    @apply flex items-center justify-center lg:justify-between flex-wrap gap-8
+}
+
+.Gal_Items img{
+    @apply h-[200px] lg:h-[400px] hover:scale-[1.05] duration-150 cursor-pointer
+}
+
+

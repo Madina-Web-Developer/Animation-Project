@@ -1,0 +1,49 @@
+
+
+.Main_Menu{
+    @apply flex items-center justify-between py-[2%] 
+}
+
+.Main_Logo .logo{
+    @apply h-[20px] md:h-[32px] lg:h-[45px]
+}
+.NavUL{ 
+    @apply flex items-center font-konit font-medium 
+    
+    text-[9px] gap-3
+    md:text-[15px] md:gap-[50px]
+}
+.NavUL li a{
+    @apply hover:text-[#fff] transition-all duration-100
+}
+
+
+.Nav_Items{
+    @apply flex items-center lg:gap-6 gap-3
+}
+/* ----------------------------------------------------- */
+
+.NavButtons{
+    @apply flex items-center gap-2 
+}
+
+.Single_Button1 {
+    @apply shadow-[0px_2px_2px_0px_rgba(59,_130,_246,_0.5)] 
+    bg-[#99ecff]   font-konit  text-[#003363] hover:bg-[#f6eae4a2] transition-all duration-100 hover:text-[#000000] hover:shadow-none 
+}
+.Single_Button2{
+   @apply bg-[#F1E6DA] font-konit  text-[#452112] hover:bg-[#bd62263f] transition-all duration-100 hover:text-[#000000] hover:bg-[#99ecff]
+}
+    
+
+
+.NavButtons a{
+@apply font-konit font-semibold
+    py-[2px] px-[7px] text-[10px] rounded-[5px]
+    md:py-[12px] md:px-[33px] md:text-[16px] md:rounded-[10px]
+    lg:px-[43px]
+}
+
+
+
+

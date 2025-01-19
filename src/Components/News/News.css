@@ -1,0 +1,61 @@
+
+
+.News_Main_Head{
+    @apply flex items-center justify-center gap-4 mb-8
+}
+
+.Main_News_H2{
+    @apply text-[18px] xl:text-[43px] 2xl:text-[48px] font-normal font-Prata   
+}
+.News_Star{
+    @apply lg:h-[20px] h-[10px] text-[#FFAB53]
+}
+.News_Main_Card{
+    @apply pb-10
+}
+
+
+.NewsCardsss{
+    @apply flex items-center gap-3 flex-wrap lg:flex-nowrap justify-center lg:justify-between
+}
+
+.News_Single_Card{
+    @apply max-w-[410px] bg-[#F1E6DA] rounded-[10px] overflow-hidden pb-[110px] shadow-[0px_4px_6px_1px_rgba(0,_0,_0,_0.1)]
+}
+.Single_News_Date{
+    @apply flex items-center gap-2 px-5
+}
+.Single_News_Date p{
+    @apply lg:text-[18px] text-[12px] font-DMSans text-[#744F40] font-normal my-3
+}
+
+
+
+.Single_News_H1{
+    @apply text-[#452112] text-[24px] font-DMSans font-semibold px-5 
+}
+.Single_News_P{
+    @apply lg:text-[16px] text-[11px] font-DMSans text-[#744F40] font-normal w-[310px] lg:!w-[363px] px-5
+}
+
+.News_Main_Button{
+    @apply
+
+    bg-[#F1E6DA] font-konit  text-[#452112] hover:bg-[#bd62263f] transition-all duration-100 hover:text-[#fff] 
+    
+}
+.mmmmb a{
+@apply  font-konit font-semibold
+py-[2px] px-[7px] text-[10px] rounded-[5px]
+md:py-[12px] md:px-[33px] md:text-[16px] md:rounded-[10px]
+lg:px-[43px] 
+}
+.mmmmb{
+    @apply w-full flex justify-center mt-10
+}
+
+
+
+
+
+

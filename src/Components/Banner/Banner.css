@@ -1,0 +1,32 @@
+.Main_Banner{
+    background-image: url(../../assets/imgs/Banner.jpeg);
+    @apply h-[270px] sm:min-h-[410px] md:h-screen bg-cover bg-no-repeat overflow-hidden
+
+}
+.MBN{
+    @apply 
+     bg-gradient-to-r from-[#fce2c6] to-[#ffffff00] h-[100%]
+}
+
+.Banner_Main_Text{
+    @apply pt-[10%] sm:pt-[15%] md:pt-[23%] lg:pt-[12%] xl:pt-[14%] 2xl:pt-[15%] pl-[5%]
+    lg:pl-[5%] 
+}
+
+/* .Main_Banner{
+    @apply pt-[10%] sm:pt-[15%] md:pt-[23%] lg:pt-[12%] xl:pt-[14%] 2xl:pt-[15%]
+    lg:pl-[5%] 
+} */
+.Banner_H2{
+    @apply font-PLFD font-normal
+    text-[17px]
+    text-[#452112]
+    md:text-[44px] 
+    lg:w-[270px]
+}
+.Baner_P{
+    @apply 
+    font-normal text-[#181817] my-[3%] font-roboto
+    text-[12px] w-[230px]
+    md:text-[18px] md:w-[420px] 
+}

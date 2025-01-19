@@ -1,0 +1,31 @@
+
+
+
+
+
+.Main3Card{
+    @apply pt-[5%] bg-[#f1e6da]
+}
+
+
+
+.Image_1st{
+    @apply xl:h-[510px] lg:h-[410px] h-[200px]
+}
+
+
+.First_Card_H2{
+    @apply text-[18px] xl:text-[43px] 2xl:text-[48px] font-normal font-Prata   
+}
+.First_Card_P{
+    @apply font-DMSans text-[12px] lg:text-[18px] max-w-[420px]
+}
+
+.UnderLine{
+    @apply my-[3%]
+}
+
+
+
+
+

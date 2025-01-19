@@ -1,0 +1,10 @@
+.Main_Video{
+    background-image: url(../../assets/imgs/VideoBG.jpeg);
+    @apply h-[270px] sm:min-h-[330px] md:min-h-[500px] bg-cover bg-no-repeat 
+    relative
+}
+
+.video{
+@apply absolute top-[-18%] left-[50%] translate-x-[-50%]
+ lg:h-[499px] h-[250px] animate-pulse
+}
