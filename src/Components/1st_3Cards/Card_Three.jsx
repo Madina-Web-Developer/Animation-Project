@@ -1,5 +1,5 @@
 import React from 'react'
-import '../1st_3Cards/First_cards.css'
+import './First_cards.css';
 import cart_1_3 from '../../assets/imgs/Cart_1_3.png'
 import UnderLine from '../../assets/imgs/UnderLine.png'
 import { PiStarFourFill } from 'react-icons/pi'

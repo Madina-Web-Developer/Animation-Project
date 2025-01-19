@@ -1,5 +1,6 @@
 import React from 'react'
-import '../1st_3Cards/First_cards.css'
+import './First_cards.css';
+
 import cart_1_1 from '../../assets/imgs/Cart_1_1.png'
 import UnderLine from '../../assets/imgs/UnderLine.png'
 
