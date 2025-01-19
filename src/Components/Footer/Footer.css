@@ -12,7 +12,7 @@
     @apply font-Prata lg:text-[32px] font-normal text-[14px]   text-[#452112]
 }
 .F_T_IC{
-    @apply flex  items-center gap-3 lg:text-[20px]
+    @apply flex  items-center gap-2 lg:text-[20px]
 }
 
 
@@ -31,6 +31,6 @@
 
 }
 .F_BT_Items{
-    @apply flex items-center gap-3 text-[#452112] font-DMSans text-[10px] lg:text-[18px]
+    @apply flex items-center gap-2 text-[#452112] font-DMSans text-[10px] lg:text-[18px]
 }
 
