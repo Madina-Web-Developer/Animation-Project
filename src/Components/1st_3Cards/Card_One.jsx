@@ -1,7 +1,6 @@
 import React from 'react'
 import './First_cards.css';
-
-import cart_1_1 from '../../assets/imgs/Cart_1_1.png'
+import cart_1_1 from '../../assetscls/imgs/Cart_1_1.png'
 import UnderLine from '../../assets/imgs/UnderLine.png'
 
 const Card_One = () => {

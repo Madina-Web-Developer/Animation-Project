@@ -7,10 +7,7 @@ const Card_Two = () => {
   return (
     <>
     
-    
-    
-    
-    
+
                 <div className="Main3Card">
                     <div className="container flex items-center gap-[6%] ">
     
