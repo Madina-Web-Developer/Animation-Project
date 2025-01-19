@@ -1,14 +1,12 @@
 import React from 'react'
-import './First_cards.css';
+import './First_Cards.css';
 import cart_1_1 from '../../assetscls/imgs/Cart_1_1.png'
 import UnderLine from '../../assets/imgs/UnderLine.png'
 
 const Card_One = () => {
   return (
     <>
-    
-    
-    
+  
             <div className="Main3Card">
                 <div className="container flex items-center gap-[6%] ">
 

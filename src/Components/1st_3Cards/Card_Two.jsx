@@ -1,6 +1,6 @@
 import React from 'react'
-import './First_cards.css'
-import cart_1_2 from '../../assets/imgs/Cart_1_2.png'
+import './First_Cards.css'
+import cart_1 from '../../assets/imgs/Cart_1_2.png'
 import UnderLine from '../../assets/imgs/UnderLine.png'
 
 const Card_Two = () => {
@@ -23,7 +23,7 @@ comforting embrace.</p>
                         </div>
     
     
-                        <img src={cart_1_2} alt="" className="Image_1st" />
+                        <img src={cart_1} alt="" className="Image_1st" />
     
     
                     </div>
